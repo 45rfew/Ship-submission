@@ -24,7 +24,7 @@ return model =
         z: 0
       position:
         x: [0,0,0,0,0,0,0,0,0]
-        y: [-124,-99.2,-98.4,-60,8,68,80,64]
+        y: [-124,-99,-98,-60,8,68,80,64]
         z: [0,0,0,0,0,0,0,0,0]
       width: [0,2.4,4.8,13.6,29.6,24,24,0]
       height: [0,2.4,4.8,13.6,16,16,16,0]
@@ -114,7 +114,7 @@ return model =
       bump:
         position: 10
         size: 10
-    wing1lets:
+    winglets:
       doubleside: true
       offset:
         x: 67.2
