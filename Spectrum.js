@@ -1,5 +1,5 @@
 return model =
-  name: 'Lance-sniper'
+  name: 'Spectrum'
   level: 5
   model: 6
   size: 1.6
